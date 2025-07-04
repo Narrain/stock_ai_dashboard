@@ -1,0 +1,2 @@
+DEFAULT_ALLOCATION = 500000  # ₹5L/year
+TICKER_SOURCE = "NSE100"     # or load from CSV/API
